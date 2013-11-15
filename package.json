@@ -1,0 +1,20 @@
+{
+  "name": "box",
+  "description": "The box module.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/witcher42/box",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/witcher42/box.git"
+  },
+  "bugs": {
+    "url": "https://github.com/witcher42/box/issues"
+  },
+  "family": "witcher42",
+  "spm": {
+    "alias": {},
+    "output": [
+      "box.css"
+    ]
+  }
+}
